@@ -1,4 +1,3 @@
-
 var nSquares = 6;
 var colors = [];
 var pickedColor;
